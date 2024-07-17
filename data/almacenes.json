@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Almacén Central",
+    "ubicacion": "Calle Principal 123"
+  },
+  {
+    "id": 2,
+    "nombre": "Almacén Norte",
+    "ubicacion": "Avenida Principal 456"
+  },
+  {
+    "id": 3,
+    "nombre": "Almacén Sur",
+    "ubicacion": "Carrera 789"
+  }
+]

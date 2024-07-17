@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Concesionario XYZ",
+    "direccion": "Calle Principal 123"
+  },
+  {
+    "id": 2,
+    "nombre": "Concesionario ABC",
+    "direccion": "Avenida Principal 456"
+  },
+  {
+    "id": 3,
+    "nombre": "Concesionario DEF",
+    "direccion": "Carrera 789"
+  }
+]

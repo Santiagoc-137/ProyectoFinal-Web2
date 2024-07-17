@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "idCompra": 1,
+    "idProducto": 101,
+    "tipoProducto": "Automóvil",
+    "cantidad": 2,
+    "precioUnitario": 15000,
+    "precioTotal": 30000
+  },
+  {
+    "id": 2,
+    "idCompra": 2,
+    "idProducto": 102,
+    "tipoProducto": "Automovil",
+    "cantidad": 1,
+    "precioUnitario": 8000,
+    "precioTotal": 8000
+  },
+  {
+    "id": 3,
+    "idCompra": 3,
+    "idProducto": 103,
+    "tipoProducto": "Camión",
+    "cantidad": 3,
+    "precioUnitario": 20000,
+    "precioTotal": 60000
+  }
+]

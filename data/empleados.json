@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana López",
+    "cargo": "Gerente de Ventas",
+    "salario": 60000,
+    "idConcesionario": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Pedro Ramírez",
+    "cargo": "Asesor de Servicio",
+    "salario": 40000,
+    "idConcesionario": 2
+  },
+  {
+    "id": 3,
+    "nombre": "María González",
+    "cargo": "Contadora",
+    "salario": 55000,
+    "idConcesionario": 3
+  }
+]

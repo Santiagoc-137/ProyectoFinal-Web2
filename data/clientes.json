@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "direccion": "Calle 123, Apartamento 4B",
+    "idConcesionario": 1
+  },
+  {
+    "id": 2,
+    "nombre": "María Rodríguez",
+    "direccion": "Avenida Principal 456",
+    "idConcesionario": 2
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos Gómez",
+    "direccion": "Carrera 789, Piso 5",
+    "idConcesionario": 3
+  }
+]

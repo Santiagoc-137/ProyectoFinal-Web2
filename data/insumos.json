@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Aceite de motor",
+    "descripcion": "Aceite sintético para motores a gasolina",
+    "precio": 30,
+    "idAlmacen": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Filtro de aire",
+    "descripcion": "Filtro de aire de repuesto para automóviles",
+    "precio": 15,
+    "idAlmacen": 2
+  },
+  {
+    "id": 3,
+    "nombre": "Batería de automóvil",
+    "descripcion": "Batería de 12V para vehículos",
+    "precio": 100,
+    "idAlmacen": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Llanta",
+    "descripcion": "Llanta de repuesto para automóviles",
+    "precio": 80,
+    "idAlmacen": 3
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "fecha": "2024-07-18",
+    "idCliente": 1,
+    "idEmpleado": 1,
+    "precioTotal": 1500
+  },
+  {
+    "id": 2,
+    "fecha": "2024-07-19",
+    "idCliente": 2,
+    "idEmpleado": 2,
+    "precioTotal": 2000
+  },
+  {
+    "id": 3,
+    "fecha": "2024-07-20",
+    "idCliente": 3,
+    "idEmpleado": 3,
+    "precioTotal": 3000
+  }
+]
