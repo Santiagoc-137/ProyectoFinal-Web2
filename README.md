@@ -13,54 +13,51 @@ Este proyecto tiene como objetivo desarrollar un sistema de información para un
 - Node.js
 - Express.js
 
-
 ## Estructura del Proyecto
 
-concesionario/
-│
-│── Controllers/    # CRUD de cada categria
-│    └──  almacenController.js
-│    └──  clienteController.js
-│    └──  compraController.js
-│    └──  concesionarioController.js
-│    └──  detalleVentaController.js
-│    └──  empleadoController.js
-│    └──  insumoController.js
-│    └──  vehiculoController.js
-│
-├── data/           # Almacenamiento de datos
-│   └──  almacenes.json
-│   └──  clientes.json
-│   └──  compras.json
-│   └──  concesionarios.json
-│   └──  detalles_ventas.json
-│   └──  empleados.json
-│   └──  insumos.json
-│   └──  vehiculos.json
-│
-├── models/         # Modelado de datos
-│   └──  almacen.js 
-│   └──  cliente.js 
-│   └──  compra.js 
-│   └──  concesionario.js 
-│   └──  detalleventa.js 
-│   └──  empleados.js 
-│   └──  insumos.js 
-│   └──  vehiculos.js 
-│ 
-├── routes/         # Rutas especificas por categoria
-│   └──  almacen.js  
-│   └──  cliente.js  
-│   └──  compra.js 
-│   └──  concesionario.js 
-│   └──  detalleventa.js     
-│   └──  empleados.js
-│   └──  insumos.js
-│   └──  vehiculos.js
-│
-├── app.js           # Archivo principal del servidor
-├── package.json     # Archivo de configuración del proyecto
-└── README.md        # Archivo con la descripción del proyecto
+- **Controllers/**: CRUD de cada categoría
+  - almacenController.js
+  - clienteController.js
+  - compraController.js
+  - concesionarioController.js
+  - detalleVentaController.js
+  - empleadoController.js
+  - insumoController.js
+  - vehiculoController.js
+
+- **data/**: Almacenamiento de datos
+  - almacenes.json
+  - clientes.json
+  - compras.json
+  - concesionarios.json
+  - detalles_ventas.json
+  - empleados.json
+  - insumos.json
+  - vehiculos.json
+
+- **models/**: Modelado de datos
+  - almacen.js
+  - cliente.js
+  - compra.js
+  - concesionario.js
+  - detalleventa.js
+  - empleados.js
+  - insumos.js
+  - vehiculos.js
+
+- **routes/**: Rutas específicas por categoría
+  - almacen.js
+  - cliente.js
+  - compra.js
+  - concesionario.js
+  - detalleventa.js
+  - empleados.js
+  - insumos.js
+  - vehiculos.js
+
+- **app.js**: Archivo principal del servidor
+- **package.json**: Archivo de configuración del proyecto
+- **README.md**: Archivo con la descripción del proyecto
 
 
 ## Instalación
