@@ -3,6 +3,7 @@
 ## Descripción
 
 Este proyecto tiene como objetivo desarrollar un sistema de información para un concesionario de automóviles que gestione la venta de vehículos e insumos. El sistema permitirá al concesionario vender vehículos y diversos insumos que pueden provenir de diferentes almacenes. Cada compra puede incluir varios insumos (aunque provengan de distintos almacenes) y múltiples vehículos. Los clientes y empleados están asociados al concesionario, y es necesario registrar todos los productos y sus precios actuales en cada compra.
+Todo esto se logró gracias a los métodos post, get, put y delete. 
 
 ## MER
 
