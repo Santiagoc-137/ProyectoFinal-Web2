@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo desarrollar un sistema de información para un
 
 ## MER
 
-!()
+!(https://github.com/Santiagoc-137/ProyectoFinal-Web2/blob/main/MER/ProyectoFinal-Web2%20MER.drawio.png)
 
 ## Tecnologías Utilizadas
 
